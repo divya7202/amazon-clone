@@ -1,1 +1,1 @@
-# amazon-clone
+This project is a full-featured clone of Amazon, designed to replicate the core functionalities of the popular e-commerce platform. Built with html,css and javascript, this application allows users to browse products, add items to the cart, and complete purchases, simulating a real-world shopping experience.
